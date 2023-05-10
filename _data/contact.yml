@@ -1,5 +1,8 @@
 #  The contact options.
 
+- type: mainWebsiteUrl
+  icon: "fab fa-globe"
+
 - type: github
   icon: "fab fa-github"
 
