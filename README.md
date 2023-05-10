@@ -1,3 +1,5 @@
+[![Deploy Jekyll site to Pages](https://github.com/Sleepy-Dog-Studios/news.sleepydogstudios.net/actions/workflows/jekyll.yml/badge.svg)](https://github.com/Sleepy-Dog-Studios/news.sleepydogstudios.net/actions/workflows/jekyll.yml)
+
 # news.sleepydogstudios.net
 This is the official repository for the Sleepy Dog Studios News Website. On this website, we post patch notes, updates, and news for your viewing.
 
