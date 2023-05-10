@@ -1,45 +1,14 @@
-# Chirpy Starter [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)](https://rubygems.org/gems/jekyll-theme-chirpy) [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+# news.sleepydogstudios.net
+This is the official repository for the Sleepy Dog Studios News Website. On this website, we post patch notes, updates, and news for your viewing.
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders `/_data`, `/_layouts`, `/_includes`, `/_sass` and `/assets`, as well as a small part of options of the `/_config.yml` file from the theme's gem. If you have ever installed this theme gem, you can use the command `bundle info --path jekyll-theme-chirpy` to locate these files.
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being able to enjoy the out-of-the-box experience when using feature-rich themes.
+## Contribution
+If you would like to contribute to the website, we ask that you follow the steps below!
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your Jekyll site. The following is a list of targets:
-
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
-
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
-
-## Prerequisites
-
-Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of the basic environment. [Git](https://git-scm.com/) also needs to be installed.
-
-## Installation
-
-Sign in to GitHub and [**use this template**][use-template] to generate a brand new repository and name it `USERNAME.github.io`, where `USERNAME` represents your GitHub username.
-
-Then clone it to your local machine and run:
-
-```
-$ bundle
-```
-
-## Usage
-
-Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
-
-## License
-
-This work is published under [MIT][mit] License.
-
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[use-template]: https://github.com/cotes2020/chirpy-starter/generate
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+1. Find an issue to fix or have an idea of something you would like to add/fix. (You can find currently known issues in the issues tab above the repository.
+2. Once you know what you are going to be working on, clone the repository.
+3. Create a new branch. Name your new branch something that is short but explains what you are doing on that branch. **DO NOT EDIT AN EXISTING BRANCH!**
+4. Once you have made your changes, test them locally and make sure everything still functions as normal.
+5. Create a new pull request referencing the branch that you create and made the changes on. The first part of the title of your pull request should be something like [fix], [feature], [addition], etc.. followed by the title. If your pull request directly addresses a currently known issue in the issues tab, reference it by number in your pull request description. For example, if my pull request references issue number 8, I would put #8 in my pull request description.
+6. Once your pull request has been created, wait for a member of Sleepy Dog Studios to look at your pull request, if it is approved, it will be merged into the main branch and the branch you made changes on will be safely deleted. There is a possibility that one of the members will request that you make changes. Keep an eye on your pull request while it is in the review process in case that changes are requested.
+7. Happy contributing!
