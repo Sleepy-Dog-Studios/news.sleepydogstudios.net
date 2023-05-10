@@ -1,6 +1,6 @@
 ---
 title: Big Quality of Life Update + Quest Release ~ Update v0.0.2
-authors: [SDS, DylanDev]
+author: SDS
 date: 2023-01-03 12:00:00 +0800
 categories: [Patch Notes]
 tags: [update, v0.0.2]
