@@ -19,6 +19,14 @@ We are an independent game development studio based out of the United States. We
 
 If you would like to contact our team, please visit [sleepydogstudios.net/#contact](https://www.sleepydogstudios.net/#contact) or email us at [contact@sleepydogstudios.net](mailto:contact@sleepydogstudios.net)
 
+# Bug Report
+
+If you would like to file a bug report, go to to [sleepydogstudios.net/report](https://www.sleepydogstudios.net/report).
+
+# Discord
+
+Join our discord server [here](https://discord.gg/bBT9MxZB9Z).
+
 # Privacy Policy
 
 To view our privacy policy, please visit this [link](https://www.sleepydogstudios.net/privacy-policy).
