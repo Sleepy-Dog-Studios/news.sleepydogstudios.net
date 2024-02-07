@@ -16,6 +16,11 @@ Hey guys! Thanks for keeping up with the game! With the excitement of Steam Next
 
 Our next stream will be happening on Friday, February 9th, at 7:30pm EST (4:30pm PST).
 
+- You can watch it on Steam here: [https://store.steampowered.com/news/app/2074360/view/4027975467589274187?l=english](https://store.steampowered.com/news/app/2074360/view/4027975467589274187?l=english)
+- You can watch it on YouTube here: [https://www.youtube.com/live/aZJ-Fpu59fE?si=MhOr6xKpHc1rzSHd](https://www.youtube.com/live/aZJ-Fpu59fE?si=MhOr6xKpHc1rzSHd)
+
+{% include embed/youtube.html id='aZJ-Fpu59fE?si=MhOr6xKpHc1rzSHd' %}
+
 We plan to continue this trend and do some more developer streams in the coming future so stay tuned!
 
 We hope to see you there at our next one!!
